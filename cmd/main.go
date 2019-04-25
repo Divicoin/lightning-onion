@@ -10,8 +10,8 @@ import (
 	"strings"
 
 	sphinx "github.com/lightningnetwork/lightning-onion"
-	"github.com/btcsuite/btcd/btcec"
-	"github.com/btcsuite/btcd/chaincfg"
+	"github.com/Divicoin/btcd/btcec"
+	"github.com/Divicoin/btcd/chaincfg"
 )
 
 // main implements a simple command line utility that can be used in order to

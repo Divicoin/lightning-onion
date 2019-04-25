@@ -7,12 +7,12 @@ import:
 - package: github.com/lightningnetwork/lnd
   subpackages:
   - chainntnfs
-- package: github.com/btcsuite/btcd
+- package: github.com/Divicoin/btcd
   subpackages:
   - btcec
   - chaincfg
   - wire
-- package: github.com/btcsuite/btcutil
+- package: github.com/Divicoin/btcutil
 - package: golang.org/x/crypto
   subpackages:
   - ripemd160
